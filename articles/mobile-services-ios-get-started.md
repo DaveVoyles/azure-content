@@ -82,7 +82,7 @@ Learn how to perform additional important tasks in Mobile Services:
 
 
 <!-- URLs. -->
-[Add mobile services to an existing app]: /en-us/documentation/articles/mobile-services-dotnet-backend-ios-get-started-data
+
 [Get started with offline data sync]: /en-us/documentation/articles/mobile-services-ios-get-started-offline-data
 [Add authentication to an existing app]: /en-us/documentation/articles/mobile-services-dotnet-backend-ios-get-started-users
 [Add push notifications to an existing app]: /en-us/documentation/articles/mobile-services-dotnet-backend-ios-get-started-push
